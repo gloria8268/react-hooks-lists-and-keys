@@ -17,7 +17,7 @@ function ColorList() {
     <div>
       <h1>Top 5 CSS Colors</h1>
       <ol>
-        {colorsli}
+        {/* {colorsli} */}
       </ol>
     </div>
   );
